@@ -5,7 +5,7 @@ body {
 
 h1{
   text-align: center;
-  color: aquamarine;
+  color: greenyellow;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 60px;
   padding: 10px 10px 10px 10px;
@@ -20,6 +20,11 @@ img {
   text-align: center;
   width: 100%;
   height: 500px;
+}
+
+header {
+  text-align: center;
+  color: blue;
 }
 /* Navbar container */
 .navbar {
